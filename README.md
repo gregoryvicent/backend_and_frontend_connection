@@ -1,5 +1,6 @@
 # backend_and_frontend_connection
 **Mira el proyecto completo en youtube [aquí](https://youtu.be/ftgTplCFb8s).**
+<br />
 Proyecto que, junto al video en youtube, enseña como se realiza la conexion entre un Frontend echo en React.js y un Backend en FastAPI tomando datos de una base de datos MySQL.
 ## Instalación de los Proyectos:
 ### Frontend:
